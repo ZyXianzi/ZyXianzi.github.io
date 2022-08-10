@@ -5,9 +5,9 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: '紫芋仙子的秘密基地',
   description: "ZyXianzi's blog",
-  base: '/',
+  base: '/blog/',
   theme: defaultTheme({
-    home: '/',
+    home: '/blog/',
     repo: 'ZyXianzi/blog',
     repoLabel: 'Github',
     sidebar: [
