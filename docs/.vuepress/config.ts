@@ -7,12 +7,7 @@ export default defineUserConfig({
   description: "ZyXianzi's blog",
   base: '/blog/',
   theme: defaultTheme({
-    home: '/blog/',
     repo: 'ZyXianzi/blog',
     repoLabel: 'Github',
-    sidebar: [
-      '/README.md',
-      '/22-08-08.md',
-    ],
   }),
 })
