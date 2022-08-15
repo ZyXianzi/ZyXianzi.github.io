@@ -1,0 +1,1 @@
+import{_ as a,o as t,c as r,a as e,b as o}from"./app.3cb2c414.js";const c={},n=e("h1",{id:"algorithm",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#algorithm","aria-hidden":"true"},"#"),o(" Algorithm")],-1),s=[n];function i(_,d){return t(),r("div",null,s)}var l=a(c,[["render",i],["__file","index.html.vue"]]);export{l as default};
