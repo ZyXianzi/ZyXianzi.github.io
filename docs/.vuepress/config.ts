@@ -9,12 +9,12 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: '紫芋仙子的秘密基地',
   description: "ZyXianzi's blog",
-  base: '/blog/',
+  base: '/',
   plugins: pluginConfig,
   theme: defaultTheme({
     navbar: navConfig,
     sidebar: sidebarConfig,
-    repo: 'ZyXianzi/blog',
+    repo: 'ZyXianzi/ZyXianzi.github.io',
     repoLabel: 'Github',
   }),
 })
