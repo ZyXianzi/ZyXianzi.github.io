@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as r,a as e,b as c}from"./app.befe333e.js";const s={},n=e("h1",{id:"typescript",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#typescript","aria-hidden":"true"},"#"),c(" TypeScript")],-1),o=[n];function i(_,d){return a(),r("div",null,o)}var l=t(s,[["render",i],["__file","index.html.vue"]]);export{l as default};

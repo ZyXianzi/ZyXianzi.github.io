@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as n,a as e,b as o}from"./app.befe333e.js";const r={},c=e("h1",{id:"python",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#python","aria-hidden":"true"},"#"),o(" Python")],-1),s=[c];function _(d,h){return a(),n("div",null,s)}var l=t(r,[["render",_],["__file","index.html.vue"]]);export{l as default};
