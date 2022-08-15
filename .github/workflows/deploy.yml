@@ -48,12 +48,12 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-        # there ACCESS_TOKEN The name should correspond to the following 
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        # Which branch will the packaged file be deployed to 
-        BRANCH: gh-pages
-        # Where are the packaged files 
-        FOLDER: docs/.vuepress/dist
+          # there ACCESS_TOKEN The name should correspond to the following 
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          # Which branch will the packaged file be deployed to 
+          BRANCH: gh-pages
+          # Where are the packaged files 
+          FOLDER: docs/.vuepress/dist
 
         # uses: crazy-max/ghaction-github-pages@v2
         # with:
