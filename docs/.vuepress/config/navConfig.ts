@@ -16,7 +16,8 @@ let navConfig = [
       { text: 'Python', link: '/backend/python/' },
     ]},
     { text: '运维', children: [
-      { text: 'Linux', link: '/maintenance/linux/' },
+      { text: 'Linux基础', link: '/maintenance/linux/' },
+      { text: '实用工具', link: '/maintenance/tools/' },
     ]},
   ];
 export default navConfig;
