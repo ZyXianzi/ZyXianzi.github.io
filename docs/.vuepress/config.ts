@@ -14,6 +14,7 @@ export default defineUserConfig({
   theme: defaultTheme({
     navbar: navConfig,
     sidebar: sidebarConfig,
+    sidebarDepth: 2,
     repo: 'ZyXianzi/ZyXianzi.github.io',
     repoLabel: 'Github',
   }),

@@ -1,8 +1,6 @@
 let navConfig = [
     { text: '首页', link: '/' },
-    { text: '运维', children: [
-      { text: 'Linux', link: '/maintenance/linux/' },
-    ]},
+    { text: '算法', link: '/algorithm/' },
     { text: '前端', children: [
       { text: 'HTML', link: '/frontend/html/' },
       { text: 'CSS', link: '/frontend/css/' },
@@ -17,6 +15,8 @@ let navConfig = [
       { text: 'Java', link: '/backend/java/' },
       { text: 'Python', link: '/backend/python/' },
     ]},
-    { text: '算法', link: '/algorithm/' },
+    { text: '运维', children: [
+      { text: 'Linux', link: '/maintenance/linux/' },
+    ]},
   ];
 export default navConfig;
