@@ -1,2 +1,2 @@
 # Hello! Secret Base with VuePress!
-# Auto deploy test!
+# 测试自动部署是否正常
