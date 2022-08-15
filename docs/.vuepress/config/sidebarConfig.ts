@@ -5,7 +5,7 @@ let sidebarConfig: SidebarConfig = {
         {
             text: '算法',
             children: [
-                'README',
+                'README.md',
             ]
         }
     ],
@@ -13,7 +13,7 @@ let sidebarConfig: SidebarConfig = {
         {
             text: 'Java',
             children: [
-                'README',
+                'README.md',
             ],
         },
     ],
@@ -21,7 +21,7 @@ let sidebarConfig: SidebarConfig = {
         {
             text: 'Python',
             children: [
-                'README',
+                'README.md',
             ],
         },
     ],
@@ -29,7 +29,7 @@ let sidebarConfig: SidebarConfig = {
         {
             text: 'Golang',
             children: [
-                'README',
+                'README.md',
             ],
         },
     ],
