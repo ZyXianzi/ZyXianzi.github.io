@@ -19,6 +19,13 @@ let sidebarConfig: DefaultTheme.SidebarMulti = {
                 { text: 'Linux介绍', link: '/maintenance/linux/introduction'},
             ]
         },
+        {
+            text: '命令行的基本使用',
+            collapsed: false,
+            items: [
+                { text: '常见文件管理命令', link: '/maintenance/linux/file-commands'}
+            ]
+        }
     ],
     '/tools': [
         {
@@ -32,7 +39,14 @@ let sidebarConfig: DefaultTheme.SidebarMulti = {
             text: 'Git',
             collapsed: false,
             items: [
-                { text: 'Git基础知识', link: '/tools/git' },
+                { text: 'Git基础知识', link: '/tools/git/basic-commands' },
+            ]
+        },
+        {
+            text: 'Docker',
+            collapsed: false,
+            items: [
+                { text: 'Docker基本命令', link: '/tools/docker/basic-commands'},
             ]
         }
     ],

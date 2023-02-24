@@ -10,7 +10,7 @@
 
 ## Git常用命令
 
-1. `git config --global user.name xxx`：设置全局用户名，信息记录在`~/.gitconfig`文件中
+1. `git config --global user.name xxx：设置全局用户名，信息记录在`~/.gitconfig`文件中
 2. `git config --global user.email xxx@xxx.com`：设置全局邮箱地址，信息记录在`~/.gitconfig`文件中
 3. `git init`：将当前目录配置成git仓库，信息记录在隐藏的.git文件夹中
 4. `git add XX`：将XX文件添加到暂存区
