@@ -40,6 +40,7 @@ let sidebarConfig: DefaultTheme.SidebarMulti = {
             collapsed: false,
             items: [
                 { text: 'Git基础知识', link: '/tools/git/basic-commands' },
+                { text: 'Git使用规范', link: '/tools/git/develop-rule'}
             ]
         },
         {
